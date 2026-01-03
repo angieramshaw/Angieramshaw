@@ -1,3 +1,12 @@
+### 🧪 How I Evaluate Compiler Candidates
+- OSS contributions (MLIR, LLVM, TVM, Triton, XLA)
+- IR design, lowering, bufferization, codegen
+- GPU backend experience
+- C++/Rust depth
+- Hardware–software co-design intuition
+
+
+
 # Hi, I'm Angela 👋
 
 ![Hiring Compiler Engineers](https://img.shields.io/badge/Hiring-Compiler%20Engineers-brightgreen)
