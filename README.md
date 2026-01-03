@@ -38,6 +38,7 @@ I prioritise:
 
 ### 📍 Currently
 Building high-impact engineering teams at **Fractile AI**.
+[Explore roles at Fractile AI](https://www.fractile.ai/careers)
 
 ### 🤝 Let’s Connect
 If you're working in compilers, runtimes, systems, or HPC —  
