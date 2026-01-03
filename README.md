@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Angela 👋
 
-<!--
-**angieramshaw/Angieramshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technical recruiter focused on compilers, runtimes, kernel engineering, and HPC.  
+I translate complex technical work into clear hiring signals and meaningful conversations, and I build sourcing systems that help frontier AI teams hire exceptional engineers.
 
-Here are some ideas to get you started:
+### 🔍 What I Do
+- Source through OSS ecosystems (MLIR, LLVM, TVM, Triton, XLA, Linux Kernel, gem5)
+- Build repeatable, evidence-based sourcing frameworks for deep technical roles
+- Partner closely with engineering to align on signals, depth, and role clarity
+- Create talent maps, outreach libraries, and sourcing playbooks for hard-to-fill roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Areas I Specialise In
+- **Compiler engineering** (MLIR, LLVM, TVM, Triton, XLA)
+- **Runtime engineering** (CUDA, ROCm, scheduling, memory systems)
+- **Kernel & systems** (Linux kernel, drivers, GPU stack)
+- **Modelling & simulation** (gem5, QEMU, HPC)
+- **Developer experience & tooling** (Bazel, CMake, Rust tooling)
+
+### 🛠 How I Work
+I prioritise:
+- Signal over volume  
+- OSS contributions over job titles  
+- Technical depth over buzzwords  
+- Respectful, personalised outreach over automation  
+
+### 📍 Currently
+Building high-impact engineering teams at **Fractile AI**.
+
+### 🤝 Let’s Connect
+If you're working in compilers, runtimes, systems, or HPC —  
+I'd love to learn about your work and share what we're building.
