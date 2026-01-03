@@ -1,18 +1,16 @@
-### 🧪 How I Evaluate Compiler Candidates
-- OSS contributions (MLIR, LLVM, TVM, Triton, XLA)
-- IR design, lowering, bufferization, codegen
-- GPU backend experience
-- C++/Rust depth
-- Hardware–software co-design intuition
-
-
-
 # Hi, I'm Angela 👋
 
 ![Hiring Compiler Engineers](https://img.shields.io/badge/Hiring-Compiler%20Engineers-brightgreen)
 ![Hiring Runtime Engineers](https://img.shields.io/badge/Hiring-Runtime%20Engineers-blue)
 ![Technical Recruiter](https://img.shields.io/badge/Role-Technical%20Recruiter-orange)
 ![Fractile AI](https://img.shields.io/badge/Fractile-AI-black)
+
+### 🧪 How I Evaluate Compiler Candidates
+- OSS contributions (MLIR, LLVM, TVM, Triton, XLA)
+- IR design, lowering, bufferization, codegen
+- GPU backend experience
+- C++/Rust depth
+- Hardware–software co-design intuition
 
 
 # Hi, I'm Angela 👋
