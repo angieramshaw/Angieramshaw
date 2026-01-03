@@ -17,6 +17,11 @@ I translate complex technical work into clear hiring signals and meaningful conv
 - Partner closely with engineering to align on signals, depth, and role clarity
 - Create talent maps, outreach libraries, and sourcing playbooks for hard-to-fill roles
 
+- ### 🚀 Fractile’s Mission
+Fractile is building next‑generation AI systems that push the boundaries of performance, efficiency, and capability.  
+Our work spans compilers, runtimes, kernel engineering, and hardware‑software co‑design — all focused on enabling faster, more scalable AI.
+
+
 ### 🧠 Areas I Specialise In
 - **Compiler engineering** (MLIR, LLVM, TVM, Triton, XLA)
 - **Runtime engineering** (CUDA, ROCm, scheduling, memory systems)
