@@ -50,3 +50,5 @@ Building high-impact engineering teams at Fractile AI.
 🤝 Let’s Connect
 If you're working in compilers, runtimes, systems, or HPC —
 I'd love to learn about your work and share what we're building.
+
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=angela-ramshaw-frec-ba6285b
